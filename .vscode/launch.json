@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendFoodApplication<backendFood>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.food.BackendFoodApplication",
+            "projectName": "backendFood",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
